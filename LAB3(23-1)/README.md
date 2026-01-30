@@ -89,4 +89,4 @@
 - Adam optimizer provides faster convergence.
 - ArcFace improves feature separability.
 - Feature visualization validates classification performance.
-- Model selection depends on dataset complexity.
+<!-- - Model selection depends on dataset complexity. -->
