@@ -35,11 +35,11 @@
 
 ### Output Table
 
-| Model   | Optimizer | Epochs | Loss Function | Train Accuracy (%) | Test Accuracy (%) |
+| Model   | Optimizer | Epochs | Loss Function |Accuracy (%) | 
 |---------|-----------|--------|---------------|--------------------|-------------------|
-| VGGNet  | Adam      | 10     | CrossEntropy  | 90.30              | XX.XX             |
-| AlexNet | SGD       | 20     | Focal Loss    | 97.78              | XX.XX             |
-| ResNet  | Adam      | 15     | ArcFace       | 75.95              | XX.XX             |
+| VGGNet  | Adam      | 10     | CrossEntropy  | 90.30                         
+| AlexNet | SGD       | 20     | Focal Loss    | 97.78                           
+| ResNet  | Adam      | 15     | ArcFace       | 75.95                           
 
 ### Observation
 
